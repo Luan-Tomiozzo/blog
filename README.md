@@ -1,3 +1,4 @@
+<img src="screenshot-blog.png">
 <h1 align="center">Blog pessoal - react</h1>
 <p align="center">Este projeto foi desenvolvido utilizando o Framework React,  com o objetivo de criar uma pagina simples somente para demonstrar o que foi utilizado.</p>
 <h1 align="center"></h1>
