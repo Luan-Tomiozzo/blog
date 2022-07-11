@@ -1,0 +1,22 @@
+.autor-container {
+    display: flex;
+    background-color: rgb(27, 54, 104);
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    width: 100%;
+
+}
+
+.autor-container div img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    border: 3px solid;
+}
+
+.autor-container div:nth-child(2) {
+    max-width: 30vw;
+    padding: 40px;
+}
